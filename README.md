@@ -31,7 +31,7 @@ While object based programming solves our problem, object oriented programming i
 
 Find books about object oriented programming on [Amazon](https://amzn.to/3fEgqit)* or [eBay](https://ebay.us/CArpYn)*
 
-*) Affiliate-Link - If you buy something on Amazon after clicking this Link, I get a sales commision from Amazon. You won't pay more.
+*) Affiliate-Link - If you buy something on Amazon or eBay after clicking the corresponding link, I get a sales commission from Amazon or eBay. You won't pay more.
 
 # Impressum
 
