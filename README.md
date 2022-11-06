@@ -11,8 +11,20 @@ Most examples about object orienten programming are really, because they only sh
 
 ## plain imperative programming
 
+[Jupyter Notebook](oopno.ipynb)
+
 This is the straight forward way. State variables and functions directly changing the values of these variables are written down without any idea of abstraction. This looks easy but is bad, if you want to doublicate the car park display to handle two different car parks.
 
 ## object based programming
 
+[Jupyter Notebook](oopob.ipynb)
+
+If we have two or more individual car parks, each one has its individual utilization independed from the other one. Also the capactity may differ. But the the concept, that cars can arrive or leave the car parks are identical for all car parks.
+
+The idea is: Each car park should have a set of state variables ``totalSpaces``and ``usedSpaces`` used by the method functions being identical for all car parks.
+
 ## object oriented programming
+
+[Jupyter Notebook](oopoo.ipynb)
+
+While object based programming solves our problem, object oriented programming is a service the programming language offers to make the implementation more comfortable. Instantiation and initialisation are combined in one statement. Implicit destruction is supported. Also the association of member functions to the corresponding classes is handled by having the class as some kind of namespace and datatype in one. Class inheritance is supported.
