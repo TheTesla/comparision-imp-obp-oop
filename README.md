@@ -29,7 +29,7 @@ The idea is: Each car park should have a set of state variables ``totalSpaces``a
 
 While object based programming solves our problem, object oriented programming is a service the programming language offers to make the implementation more comfortable. Instantiation and initialisation are combined in one statement. Implicit destruction is supported. Also the association of member functions to the corresponding classes is handled by having the class as some kind of namespace and datatype in one. Class inheritance is supported.
 
-*[Books about opject oriented programming on Amazon](https://amzn.to/3fEgqit)
+*[Books about object oriented programming on Amazon](https://amzn.to/3fEgqit)
 
 *) Affiliate-Link - If you buy something on Amazon after clicking this Link, I get a sales commision from Amazon. You won't pay more.
 
